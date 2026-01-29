@@ -1,4 +1,5 @@
 ## Hi! I'm Andrew
-- I am an aspiring UI enginneer and desinger from Orlando
-- I am currently attending UCF studying Web Devlopment with a minor in CS
-- I am passionate about creating unique experiences through designs, solving problems, and photography
+- I’m an aspiring UI engineer and designer based in Orlando.
+  Currently, I’m studying Web Development at UCF with a minor in Computer Science.
+  
+- I love crafting thoughtful, user-friendly experiences through design, problem-solving, and a bit of photography on the side 📸✨
